@@ -1,0 +1,23 @@
+! Title: Minh's uBlock filters
+! Expires: 1 days
+! Description: Filters optimized for uBlock, to be used along EasyList
+! Homepage: https://github.com/daoducminh/ads-filter
+
+! Speedtest.net
+speedtest.net##.eot-dd-content.eot-dd
+
+! ThePirateBay
+thepiratebay.org###izooto-subscription-prompt
+
+! metruyenchu.com
+metruyenchu.com##.nh-read__alert
+metruyenchu.com##.bx_wrapper_handmoney
+metruyenchu.com##*[id*="tpads_"]
+metruyenchu.com##*[id*="xBHkMZhVlJFc"]
+metruyenchu.com##.pt-3.text-center
+metruyenchu.com##.pb-3.text-center
+metruyenchu.com##.py-3.text-center
+metruyenchu.com##.nh-read__pagination.pb-3.text-center
+metruyenchu.com##.nh-read__pagination.py-3.text-center
+metruyenchu.com##.nh-read__pagination.pt-3.text-center
+metruyenchu.com##div[class='px-3']

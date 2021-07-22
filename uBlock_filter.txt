@@ -8,6 +8,8 @@ speedtest.net##.eot-dd-content.eot-dd
 
 ! ThePirateBay
 thepiratebay.org###izooto-subscription-prompt
+thepiratebay.org###meta-right
+thepiratebay.org##a[href*="pancakeswap"]
 
 ! metruyenchu.com
 metruyenchu.com##.nh-read__alert

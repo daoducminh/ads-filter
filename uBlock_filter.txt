@@ -23,6 +23,8 @@ metruyenchu.com##.nh-read__pagination.pb-3.text-center
 metruyenchu.com##.nh-read__pagination.py-3.text-center
 metruyenchu.com##.nh-read__pagination.pt-3.text-center
 metruyenchu.com##div[class='px-3']
+metruyenchu.com##.nt-fl-ad
+metruyenchu.com##ins
 
 ! medium0
 medium0.com###medium0-donate

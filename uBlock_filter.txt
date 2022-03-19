@@ -28,3 +28,6 @@ metruyenchu.com##ins
 
 ! medium0
 medium0.com###medium0-donate
+
+! igg-games.com
+igg-games.com###SLY

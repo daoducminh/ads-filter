@@ -30,4 +30,4 @@ metruyenchu.com##ins
 medium0.com###medium0-donate
 
 ! igg-games.com
-igg-games.com###SLY
+igg-games.com##div[style*='z-index: 1;']

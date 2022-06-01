@@ -25,9 +25,13 @@ metruyenchu.com##.nh-read__pagination.pt-3.text-center
 metruyenchu.com##div[class='px-3']
 metruyenchu.com##.nt-fl-ad
 metruyenchu.com##ins
+metruyenchu.com##small.text-muted:upward(section.nh-section)
 
 ! medium0
 medium0.com###medium0-donate
 
 ! igg-games.com
 igg-games.com##div[style*='z-index: 1;']
+
+! geeksforgeeks
+geeksforgeeks.org##.login-modal-div

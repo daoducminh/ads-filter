@@ -11,21 +11,21 @@ thepiratebay.org###izooto-subscription-prompt
 thepiratebay.org###meta-right
 thepiratebay.org##a[href*="pancakeswap"]
 
-! metruyenchu.com
-metruyenchu.com##.nh-read__alert
-metruyenchu.com##.bx_wrapper_handmoney
-metruyenchu.com##*[id*="tpads_"]
-metruyenchu.com##*[id*="xBHkMZhVlJFc"]
-metruyenchu.com##.pt-3.text-center
-metruyenchu.com##.pb-3.text-center
-metruyenchu.com##.py-3.text-center
-metruyenchu.com##.nh-read__pagination.pb-3.text-center
-metruyenchu.com##.nh-read__pagination.py-3.text-center
-metruyenchu.com##.nh-read__pagination.pt-3.text-center
-metruyenchu.com##div[class='px-3']
-metruyenchu.com##.nt-fl-ad
-metruyenchu.com##ins
-metruyenchu.com##small.text-muted:upward(section.nh-section)
+! mtccv.com
+mtccv.com##.nh-read__alert
+mtccv.com##.bx_wrapper_handmoney
+mtccv.com##*[id*="tpads_"]
+mtccv.com##*[id*="xBHkMZhVlJFc"]
+mtccv.com##.pt-3.text-center
+mtccv.com##.pb-3.text-center
+mtccv.com##.py-3.text-center
+mtccv.com##.nh-read__pagination.pb-3.text-center
+mtccv.com##.nh-read__pagination.py-3.text-center
+mtccv.com##.nh-read__pagination.pt-3.text-center
+mtccv.com##div[class='px-3']
+mtccv.com##.nt-fl-ad
+mtccv.com##ins
+mtccv.com##small.text-muted:upward(section.nh-section)
 
 ! medium0
 medium0.com###medium0-donate

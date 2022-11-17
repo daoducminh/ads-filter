@@ -45,6 +45,23 @@ mtccv.com##ins
 mtccv.com##small.text-muted:upward(section.nh-section)
 mtccv.com##.nh-section>.text-center.pt-2:upward(section.nh-section)
 
+! metruyencv.com
+metruyencv.com##.nh-read__alert
+metruyencv.com##.bx_wrapper_handmoney
+metruyencv.com##*[id*="tpads_"]
+metruyencv.com##*[id*="xBHkMZhVlJFc"]
+metruyencv.com##.pt-3.text-center
+metruyencv.com##.pb-3.text-center
+metruyencv.com##.py-3.text-center
+metruyencv.com##.nh-read__pagination.pb-3.text-center
+metruyencv.com##.nh-read__pagination.py-3.text-center
+metruyencv.com##.nh-read__pagination.pt-3.text-center
+metruyencv.com##div[class='px-3']
+metruyencv.com##.nt-fl-ad
+metruyencv.com##ins
+metruyencv.com##small.text-muted:upward(section.nh-section)
+metruyencv.com##.nh-section>.text-center.pt-2:upward(section.nh-section)
+
 ! medium0
 medium0.com###medium0-donate
 

@@ -67,6 +67,8 @@ medium0.com###medium0-donate
 
 ! igg-games.com
 igg-games.com##div[style*='z-index: 1;']
+igg-games.com##div[style$="display: flex; justify-content: center"]
+igg-games.com##div[style="margin-top: 10px;"]
 
 ! geeksforgeeks
 geeksforgeeks.org##.login-modal-div

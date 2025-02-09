@@ -72,3 +72,6 @@ igg-games.com##div[style="margin-top: 10px;"]
 
 ! geeksforgeeks
 geeksforgeeks.org##.login-modal-div
+
+! qidian-vp.com
+qidian-vp.com##.main-container a.size-full.opacity-0

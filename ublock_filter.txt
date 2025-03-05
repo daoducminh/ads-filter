@@ -75,3 +75,4 @@ geeksforgeeks.org##.login-modal-div
 
 ! qidian-vp.com
 qidian-vp.com##.fixed.size-full
+qidian-vp.com##*[href*='shopee']

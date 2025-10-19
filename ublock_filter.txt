@@ -73,6 +73,8 @@ igg-games.com##div[style="margin-top: 10px;"]
 ! geeksforgeeks
 geeksforgeeks.org##.login-modal-div
 
-! qidian-vp.com
-qidian-vp.com##.fixed.size-full
-qidian-vp.com##a[href*="shopee"]
+! nhieutruyen.com
+nhieutruyen.com##.fixed.size-full
+nhieutruyen.com##a[href*="shopee"]
+nhieutruyen.com##.mg\:right-5
+nhieutruyen.com##.mb-6
